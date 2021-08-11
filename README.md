@@ -1,4 +1,4 @@
 # national-currency
-The smart contracts for the government-issued deflationary currency 
+The smart contracts for the government-issued deflationary currency.
 
-Audit pending
+Audit by CertiK (pending).
